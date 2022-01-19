@@ -1,6 +1,6 @@
 ### MiniSQL
 
-> author: JINGYE_XIAO	SHI_HAN_wang
+> author: 王章红 肖敬业 王诗涵 何新越
 >
 > date: 2022.1.10
 
