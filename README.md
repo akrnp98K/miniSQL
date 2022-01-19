@@ -1,8 +1,8 @@
 ### MiniSQL
 
-> author: 黄雨生 宋融 薛伟
+> author: JINGYE_XIAO	SHI_HAN_wang
 >
-> date: 2017.6
+> date: 2022.1.10
 
 #### 1、编译
 
